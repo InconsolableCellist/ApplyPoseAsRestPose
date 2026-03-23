@@ -1,5 +1,5 @@
 # Apply Pose as Rest Pose
-# Copyright 2025 Foxipso
+# Copyright 2026 Foxipso
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 import bpy
