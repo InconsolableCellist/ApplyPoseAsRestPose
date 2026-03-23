@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+
+id = "pose_to_rest"
+version = "1.0.0"
+name = "Apply Pose as Rest Pose"
+tagline = "Apply the current pose as the rest pose, correctly handling shape keys"
+maintainer = "Foxipso"
+type = "add-on"
+tags = ["Rigging"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
