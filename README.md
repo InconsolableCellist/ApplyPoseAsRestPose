@@ -11,7 +11,7 @@ A minimal Blender extension (4.2+) that applies the current armature pose as the
 
 ## Installation
 
-Copy the `pose_to_rest` folder into your Blender extensions directory, or install via **Edit > Preferences > Add-ons**.
+Copy the `pose_to_rest` folder into your Blender extensions directory, or download the source as a .zip and install via **Edit > Preferences > Add-ons**.
 
 ## Usage
 
